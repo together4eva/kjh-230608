@@ -15,13 +15,10 @@
 <script
 	src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
 
-<title>index</title>
-</head> 
+<title>Insert title here</title>
+</head>
 <body>
 <div class = "container">
-
-
-test1 kjh
 
 </div>	
 
