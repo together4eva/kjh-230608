@@ -19,8 +19,6 @@
 </head> 
 <body>
 <div class = "container">
-
-ㅅㄷㄴㅅ
 test1 kjh
 test
 
